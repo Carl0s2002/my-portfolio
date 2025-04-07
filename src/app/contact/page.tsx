@@ -1,4 +1,4 @@
-import { FaFacebook, FaLinkedin, FaPhoneVolume } from "react-icons/fa";
+import { FaFacebook, FaGithub, FaLinkedin, FaPhoneVolume } from "react-icons/fa";
 import Layout from "../components/Layout";
 import ProfilePic from "../components/ProfilePic";
 import { MdEmail } from "react-icons/md";
@@ -31,6 +31,10 @@ export default function Contact(){
                 <div style={{display:"flex" , alignItems:"center" , justifyContent:"flex-start"  }}>
                 <MdEmail className="hover:scale-125"></MdEmail>
                 <p style={{marginLeft:6}}>fodorlaszlocarlos@gmail.com</p>
+                </div>
+                <div style={{display:"flex" , alignItems:"center" , justifyContent:"flex-start"  }}>
+                <a href="https://github.com/Carl0s2002"><FaGithub className="hover:scale-125"></FaGithub></a>
+                <p style={{marginLeft:6}}>Fodor Carlos</p>
                 </div>
                 <div style={{display:"flex" , alignItems:"center" , justifyContent:"flex-start"  }}>
                 <a href="/Fodor László-Carlos CV.pdf"><PiReadCvLogoFill className="hover:scale-125"></PiReadCvLogoFill></a>
