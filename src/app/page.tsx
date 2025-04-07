@@ -10,7 +10,7 @@ export default function Home() {
         </div>
         <div style={{width:"75%"}}>
         <p style={{fontSize:60 , marginRight: 30 , fontFamily:"initial"}}>About me</p>
-        <p>I am Fodor László-Carlos, a 22-year-old graduate of Sapientia Hungarian University of Transylvania, with a deep passion for computer science and problem-solving. My journey into IT began in eighth grade when I became curious about what it truly meant to be a software engineer. Rather than just wondering, I decided to immerse myself in the field, leading me to pursue an intensive computer science program at Bolyai Farkas Theoretical High School.
+        <p>I am Fodor László-Carlos, a 23-year-old graduate of Sapientia Hungarian University of Transylvania, with a deep passion for computer science and problem-solving. My journey into IT began in eighth grade when I became curious about what it truly meant to be a software engineer. Rather than just wondering, I decided to immerse myself in the field, leading me to pursue an intensive computer science program at Bolyai Farkas Theoretical High School.
 
 Those four years built a strong foundation, guiding me toward Sapientia University, where I was exposed to a wide range of technologies and real-world challenges. During my studies, I participated in the Codespring mentorship program and summer internship, gaining valuable hands-on experience by contributing to a real-world software project.
 
